@@ -1,0 +1,85 @@
+"id","Country","State","Name","Type","ElevationMeters","ElevationFeets","LastEruptionDate","LastEruptionVEI","Latitude","Longitude"
+"1","Canada","British Columbia","Silverthrone Caldera","Caldera",2865,9400,"Unknown","Unknown",51.43,-126.3
+"2","Canada","British Columbia","Franklin Glacier Volcano","Caldera",2252,7388,"Pliocene","Unknown",51.33,-125.04
+"3","Canada","British Columbia","Bridge River Cones","Volcanic field",2500,8500,"Unknown","Unknown",50.8,-123.4
+"4","Canada","British Columbia","Mount Meager","Complex volcano",2645,8678,"2,350 BP","5",50.63,-123.5
+"5","Canada","British Columbia","Ring Mountain","Tuya",2192,7192,"Unknown","Unknown",50.13,-123.17
+"6","Canada","British Columbia","Mount Cayley","Stratovolcano",2385,7825,"20,000 BP","Unknown",50.12,-123.28
+"7","Canada","British Columbia","Brandywine Mountain","Volcanic plug",2213,7260,"Pleistocene","Unknown",50.11,-123.22
+"8","Canada","British Columbia","Mount Fee","Volcanic plug",2162,7093,"Pleistocene","Unknown",50.08,-123.24
+"9","Canada","British Columbia","Mount Brew","Subglacial volcano",1757,5764,"Pleistocene","Unknown",50.04,-123.19
+"10","Canada","British Columbia","The Black Tusk","Stratovolcano",2319,7608,"Pleistocene","Unknown",49.97,-123.04
+"11","Canada","British Columbia","Cinder Cone","Cinder cone",1910,6266,"Holocene","Unknown",49.97,-123.01
+"12","Canada","British Columbia","Clinker Peak","Stratovolcano",1992,6535,"9,000 BP","Unknown",49.93,-123.04
+"13","Canada","British Columbia","Mount Price","Stratovolcano",2052,6732,"9,000 BP","Unknown",49.92,-123.03
+"14","Canada","British Columbia","Garibaldi Lake","Volcanic field",2316,7598,"Unknown","Unknown",49.92,-123.03
+"15","Canada","British Columbia","The Table","Tuya",2021,6631,"Pleistocene","Unknown",49.9,-123.01
+"16","Canada","British Columbia","Mount Garibaldi","Stratovolcano",2678,8786,"10,700-9,300","3?",49.84,-123
+"17","Canada","British Columbia","Opal Cone","Cinder cone",1736,5696,"9,300 BP","Unknown",49.83,-123.97
+"18","Canada","British Columbia","The Castle","Subglacial volcano",510,1670,"Pleistocene","Unknown",49.69,-123.02
+"19","Canada","British Columbia","Coquihalla Mountain","Stratovolcano",2157,7077,"Miocene","Unknown",49.525,-121.06
+"20","Canada","British Columbia","Watts Point","Subglacial volcano",240,800,"90,000 BP","Unknown",49.39,-123.13
+"21","USA","Washington","Mount Baser","Stratovolcano",3286,10781,"1880","2",48.777,-121.813
+"22","USA","Washington","Glacier Peak","Stratovolcano",3213,10541,"1700 ± 100 years","2",48.112,-121.113
+"23","USA","Washington","Mount Rainier","Stratovolcano",4392,14411,"1894","1?",46.853,-121.76
+"24","USA","Washington","Goat Rocks","Stratovolcano",2494,8184,"730,000 BP","Unknown",46.29,-121.24
+"25","USA","Washington","Mount Adams","Stratovolcano",3742,12277,"950","2",46.206,-121.49
+"26","USA","Washington","Mount St. Helens","Stratovolcano",2549,8363,"2008","2",46.2,-122.18
+"27","USA","Washington","Indian Heaven","Shield volcano",1806,5925,"8260 BP ± 100 years","Unknown",45.93,-121.82
+"28","USA","Washington","Silver Star Mountain","Shield volcano?",1330,4364,"Miocene","Unknown",45.747722,-122.239028
+"29","USA","Washington","West Crater","Volcanic field",1329,4360,"7767 BP","2?",45.88,-122.08
+"30","USA","Washington","Trout Creek Hill","Shield volcano",893,2930,"340,000 BP","Unknown",45.83,-122
+"31","USA","Oregon","Boring Lava Field","Volcanic field",1236,4055,"Pleistocene","Unknown",45.66,-122.68
+"32","USA","Oregon","Rocky Butte","Cinder cone",174,571,"Pleistocene","Unknown",45.547,-122.565
+"33","USA","Oregon","Powell Butte","Cinder cone",191,627,"Pleistocene","Unknown",45.487,-122.504
+"34","USA","Oregon","Mount Sylvania","Cinder cone",292,958,"Pleistocene","Unknown",45.438,-122.721
+"35","USA","Oregon","Mount Hood","Stratovolcano",3426,11240,"1866","2",45.374,-121.695
+"36","USA","Oregon","Olallie Butte","Shield volcano",2199,7215,"-","Unknown",44.82,-121.764
+"37","USA","Oregon","Mount Jefferson","Stratovolcano",3199,10495,"950 AD?","Unknown",44.674,-121.799
+"38","USA","Oregon","Three Fingered Jack","Shield volcano",2390,7841,"Pleistocene","Unknown",44.478,-121.845
+"39","USA","Oregon","Hogg Rock","Tuya",1548,5080,"Pleistocene","Unknown",44.422,-121.877
+"40","USA","Oregon","Blue Lake Crater","Maar",1230,4035,"680 AD ± 200 years","Unknown",44.411,-121.774
+"41","USA","Oregon","Hoodoo Butte","Cinder cone",1738,5702,"Holocene","Unknown",44.402,-121.884
+"42","USA","Oregon","Sand Mountain Field","Cinder cones",1664,5459,"70 AD ± 150 years","Unknown",44.38,-121.93
+"43","USA","Oregon","Hayrick Butte","Tuya",1683,5523,"Pleistocene","Unknown",44.399,-121.871
+"44","USA","Oregon","Black Butte","Cinder cone",1937,6355,"-","Unknown",44.399,-121.634
+"45","USA","Oregon","Mount Washington","Shield volcano",2376,7795,"1,330 BP","Unknown",44.332,-121.838
+"46","USA","Oregon","Belknap Crater","Shield volcanoes",2095,6873,"480 AD?","2?",44.285,-121.843
+"47","USA","Oregon","Black Crater","Shield volcano",2210,7251,"-","Unknown",44.266,-121.748
+"48","USA","Oregon","Three Sisters","Complex volcano",3157,10358,"1,600 BP","Unknown",44.1,-121.77
+"49","USA","Oregon","Broken Top","Stratovolcano",2797,9055,"100,000 BP","Unknown",44.083,-121.699
+"50","USA","Oregon","Pilot Butte","Cinder cone",1261,4138,"Pleistocene","Unknown",44.061,-121.283
+"51","USA","Oregon","Tumalo Mountain","Shield volcano",2370,7775,"-","Unknown",44.005,-121.642
+"52","USA","Oregon","Mount Bachelor","Stratovolcano",2764,9068,"8,000-10,000 BP","Unknown",43.979,-121.688
+"53","USA","Oregon","Lava Butte","Cinder cone",1529,5016,"7,000 BP","Unknown",43.918,-121.356
+"54","USA","Oregon","Newberry Volcano","Shield volcano",2435,7989,"690 AD","4",43.722,-121.229
+"55","USA","Oregon","Maiden Peak","Shield volcano",2383,7818,"-","Unknown",43.626,-121.925
+"56","USA","Oregon","Davis Lake","Volcanic field",2163,7096,"2,790 BC?","Unknown",43.57,-121.82
+"57","USA","Oregon","Diamond Peak","Shield volcano",2665,8744,"Less than 100,000 BP","Unknown",43.52,-122.149
+"58","USA","Oregon","Devil's Garden","Volcanic field",1698,5571,"Unknown","Unknown",43.512,-120.861
+"59","USA","Oregon","Squaw Ridge","Volcanic field",1711,5613,"Unknown","Unknown",43.472,-120.754
+"60","USA","Oregon","Four Craters","Volcanic field",1501,4924,"Unknown","Unknown",43.361,-120.669
+"61","USA","Oregon","Cinnamon Butte","Cinder cones",1956,6417,"Unknown","Unknown",43.241,-122.108
+"62","USA","Oregon","Howlock Mountain","Shield volcano",2545,8351,"Pleistocene","Unknown",43.192,-122.039
+"63","USA","Oregon","Mount Bailey","Shield volcano",2551,8368,"Less than 100,000 BP","Unknown",43.155,-122.221
+"64","USA","Oregon","Mount Thielsen","Stratovolcano",2799,9184,"-","Unknown",43.153,-122.067
+"65","USA","Oregon","Yamsay Mountain","Shield volcano",2498,8196,"-","Unknown",42.931,-121.364
+"66","USA","Oregon","Mount Mazama","Caldera",2487,8159,"2290 BC ± 300 years","Unknown",42.93,-122.12
+"67","USA","Oregon","Mount Scott","Stratovolcano",2722,8929,"Pleistocene","Unknown",42.923,-122.018
+"68","USA","Oregon","Union Peak","Shield volcano",2350,7709,"-","Unknown",42.831,-122.224
+"69","USA","Oregon","Pelican Butte","Shield volcano",2449,8036,"300,000 BP","Unknown",42.513,-122.146
+"70","USA","Oregon","Mount McLoughlin","Stratovolcano",2894,9495,"20,000 BP","Unknown",42.445,-122.315
+"71","USA","Oregon","Aspen Butte","Shield volcano",2502,8208,"-","Unknown",42.315,-122.088
+"72","USA","California","Medicine Lake Volcano","Shield volcano",2412,7913,"1260 ± 40 years","3?",41.363,-121.33
+"73","USA","California","Mount Shasta","Stratovolcano",4317,14163,"1786","3",41.409,-122.193
+"74","USA","California","Shastina","Stratovolcano",3758,12330,"-","Unknown",41.4,-122.22
+"75","USA","California","Black Butte","Lava dome",1902,6242,"9,000-10,000 BP","Unknown",41.363,-122.348
+"76","USA","California","Brushy Butte","Shield volcano",1174,3852,"Unknown","Unknown",41.178,-121.443
+"77","USA","California","Big Cave","Shield volcano",1259,4131,"Unknown","Unknown",40.955,-121.365
+"78","USA","California","Twin Buttes","Cinder cones",1631,5351,"Unknown","Unknown",40.777,-121.591
+"79","USA","California","Tumble Buttes","Cinder cones",2191,7188,"Unknown","Unknown",40.68,-121.55
+"80","USA","California","Eagle Lake Field","Fissure vents",1652,5420,"Unknown","Unknown",40.63,-120.83
+"81","USA","California","Cinder Cone","Cinder cone",2105,6907,"350 BP","Unknown",40.53,-121.32
+"82","USA","California","Chaos Crags","Lava domes",2592,8503,"1,000 BP","Unknown",40.53,-121.52
+"83","USA","California","Lassen Peak","Lava dome",3189,10462,"1917","3",40.492,-121.508
+"84","USA","California","Mount Tehama","Stratovolcano",2815,9235,"600,000 BP","Unknown",40.43,-121.55
